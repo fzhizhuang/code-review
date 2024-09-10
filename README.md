@@ -5,8 +5,8 @@
 ![img.png](docs/images/github.png)
 2. 在仓库中配置以下内容
 ```markdown
-GITHUB_REVIEW_LOG_URL: 代码评审组件的日志路径
-GITHUB_TOKEN: GitHub （setting-> Developer Settings -> Personal access tokens -> tokens ）
+CODE_REVIEW_LOG_URL: 代码评审组件的日志路径
+CODE_TOKEN: GitHub （setting-> Developer Settings -> Personal access tokens -> tokens ）
 WEIXIN_APPID: 微信appid
 WEIXIN_SECRET: 微信secret
 WEIXIN_TOUSERS: 要通知的用户 [","-分割符]
